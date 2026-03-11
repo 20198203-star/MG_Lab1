@@ -1,0 +1,23 @@
+* {
+  margin: auto;
+  color: black;
+  background-color: #F6F0D7;
+}
+
+section{
+  width: 500px;
+}
+
+section h2 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 50px;
+  color: #255F38;
+}
+
+p{
+  margin-top: 10px;;
+}
